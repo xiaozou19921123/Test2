@@ -1,0 +1,6 @@
+git init     //初始化
+git add *    //添加所有文件
+git commit -m "first commit"    //commit提交命名
+git remote add origin git@github.com:xiaozou19921123/sec.git  //连接仓库
+git push -u origin master  //和GitHub建立连接
+git push  //同步
