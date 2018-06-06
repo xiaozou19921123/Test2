@@ -1,5 +1,4 @@
-cd E:\»ıÀÛ\GitHub\Note
-git pull
+cd .\GitHub\Note
 git add *
 git commit -m "update"
 git push

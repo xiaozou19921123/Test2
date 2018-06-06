@@ -1,5 +1,4 @@
-cd E:\»ıÀÛ\GitHub\Test2
-git pull
+cd .\Test2
 git add *
 git commit -m "update"
 git push
